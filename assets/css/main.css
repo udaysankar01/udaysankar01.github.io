@@ -93,6 +93,20 @@ h6 {
     margin-left: 0; 
 }
 
+.icon-list {
+    list-style-type: none; /* Remove default bullet points */
+    padding-left: 30px; /* Remove default padding */
+}
+
+.icon-list li {
+    margin-bottom: 10px; /* Add some space between items */
+}
+
+.icon-list li i {
+    margin-right: 8px; /* Space between the icon and the text */
+    color: #333; /* Adjust the color if needed */
+}
+
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
