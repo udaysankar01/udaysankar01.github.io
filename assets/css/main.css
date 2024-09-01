@@ -87,6 +87,12 @@ h6 {
   font-family: var(--heading-font);
 }
 
+.quote {
+    border-left: 4px solid #149ddd;
+    padding-left: 15px;
+    margin-left: 0; 
+}
+
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
